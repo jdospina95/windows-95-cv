@@ -1,0 +1,14 @@
+.nav-bar {
+  padding: 2px;
+  box-shadow: inset 1px 0 white;
+  display: block;
+  background-color: silver;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border-top: 1px solid #f4f4f4;
+  border-bottom: 1px solid #4e4e4e;
+  position: fixed;
+  z-index: 99999;
+  user-select: none;
+}
